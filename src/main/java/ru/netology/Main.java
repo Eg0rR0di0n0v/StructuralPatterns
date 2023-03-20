@@ -8,6 +8,8 @@ public class Main {
         System.out.println(intsCalc.sum(2, 2));
         System.out.println(intsCalc.sum(10, 22));
         System.out.println(intsCalc.pow(2, 10));
+        System.out.println(intsCalc.div(45, 5));
+        System.out.println(intsCalc.sub(10, 2));
 
     }
 }
